@@ -1,0 +1,19 @@
+接口文档：http://api.zhushijz.top/web/#/32?page_id=620   112233
+
+dcloud ！自己的可以不写
+账号：183229462@qq.com
+密码：Pengyuhan789
+mrwish mrwish mrwish mrwish
+
+测试服宝塔地址
+外网面板地址: http://112.124.5.207:8888/8b0dfb20
+username: ce0nhact
+password: 693b00ee
+
+正式服宝塔地址
+xxxxxxx
+xxxxxxx
+xxxxxxx
+
+证书别名：xxxx
+证书密钥：xxxx
